@@ -24,7 +24,7 @@
         "name": "Quinn",
         "age": 50,
         "job": "Artist",
-        "gender": "Non-binary",
+        "gender": "male",
         "country": "USA"
     },
     {
@@ -38,7 +38,7 @@
         "name": "Paul",
         "age": 38,
         "job": "Designer",
-        "gender": "Non-binary",
+        "gender": "male",
         "country": "UK"
     },
     {
@@ -80,14 +80,14 @@
         "name": "John",
         "age": 29,
         "job": "Nurse",
-        "gender": "Non-binary",
+        "gender": "male",
         "country": "Germany"
     },
     {
         "name": "Olivia",
         "age": 57,
         "job": "Scientist",
-        "gender": "Non-binary",
+        "gender": "male",
         "country": "Germany"
     },
     {
@@ -143,7 +143,7 @@
         "name": "Paul",
         "age": 49,
         "job": "Scientist",
-        "gender": "Non-binary",
+        "gender": "male",
         "country": "Japan"
     },
     {
@@ -164,7 +164,7 @@
         "name": "Mia",
         "age": 24,
         "job": "Nurse",
-        "gender": "Non-binary",
+        "gender": "male",
         "country": "Brazil"
     },
     {
@@ -178,14 +178,14 @@
         "name": "Ivy",
         "age": 32,
         "job": "Nurse",
-        "gender": "Non-binary",
+        "gender": "male",
         "country": "Australia"
     },
     {
         "name": "Paul",
         "age": 34,
         "job": "Writer",
-        "gender": "Non-binary",
+        "gender": "male",
         "country": "South Korea"
     },
     {
@@ -248,7 +248,7 @@
         "name": "Eva",
         "age": 41,
         "job": "Designer",
-        "gender": "Non-binary",
+        "gender": "male",
         "country": "Australia"
     },
     {
@@ -262,21 +262,21 @@
         "name": "Helen",
         "age": 44,
         "job": "Doctor",
-        "gender": "Non-binary",
+        "gender": "male",
         "country": "South Korea"
     },
     {
         "name": "Ivy",
         "age": 59,
         "job": "Chef",
-        "gender": "Non-binary",
+        "gender": "male",
         "country": "Canada"
     },
     {
         "name": "John",
         "age": 34,
         "job": "Designer",
-        "gender": "Non-binary",
+        "gender": "male",
         "country": "Canada"
     }
 ]

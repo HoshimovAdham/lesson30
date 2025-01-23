@@ -1,142 +1,564 @@
 [
     {
-        "name": "Paul",
-        "age": 47,
-        "job": "Artist",
-        "gender": "Female",
-        "country": "India"
+      "id": 1,
+      "name": "Aliyev Ali",
+      "email": "ali@gmail.com",
+      "year": 1995,
+      "company": "TechSoft"
     },
     {
-        "name": "Mia",
-        "age": 36,
-        "job": "Engineer",
-        "gender": "Female",
-        "country": "India"
+      "id": 2,
+      "name": "Boboev Bobur",
+      "email": "bobur@gmail.com",
+      "year": 1992,
+      "company": "WebSolutions"
     },
     {
-        "name": "Jane",
-        "age": 41,
-        "job": "Teacher",
-        "gender": "Male",
-        "country": "Australia"
+      "id": 3,
+      "name": "Karimov Karim",
+      "email": "karim@gmail.com",
+      "year": 1988,
+      "company": "CloudTech"
     },
     {
-        "name": "Quinn",
-        "age": 50,
-        "job": "Artist",
-        "gender": "Female",
-        "country": "USA"
-    },
-    {   
-        "name": "Charlie",
-        "age": 38,
-        "job": "Engineer",
-        "gender": "Male",
-        "country": "Brazil"
+      "id": 4,
+      "name": "Xodjaev Xolmat",
+      "email": "xodjaev@gmail.com",
+      "year": 1990,
+      "company": "Innovatech"
     },
     {
-        "name": "Paul",
-        "age": 38,
-        "job": "Designer",
-        "gender": "Female",
-        "country": "UK"
+      "id": 5,
+      "name": "Zokirov Zafar",
+      "email": "zafar@gmail.com",
+      "year": 1985,
+      "company": "DataSolutions"
     },
     {
-        "name": "Paul",
-        "age": 28,
-        "job": "Programmer",
-        "gender": "Male",
-        "country": "South Korea"
+      "id": 6,
+      "name": "Valiyeva Venera",
+      "email": "venera@gmail.com",
+      "year": 1983,
+      "company": "TechGuru"
     },
     {
-        "name": "Mia",
-        "age": 32,
-        "job": "Programmer",
-        "gender": "Male",
-        "country": "Brazil"
+      "id": 7,
+      "name": "Sharipov Shuxrat",
+      "email": "shuxrat@gmail.com",
+      "year": 1997,
+      "company": "SoftStudio"
     },
     {
-        "name": "Alice",
-        "age": 33,
-        "job": "Nurse",
-        "gender": "Male",
-        "country": "Germany"
+      "id": 8,
+      "name": "Rasulov Rasul",
+      "email": "rasul@gmail.com",
+      "year": 1990,
+      "company": "CodeGen"
     },
     {
-        "name": "Olivia",
-        "age": 54,
-        "job": "Artist",
-        "gender": "Female",
-        "country": "Canada"
+      "id": 9,
+      "name": "Komilova Komila",
+      "email": "komila@gmail.com",
+      "year": 1993,
+      "company": "DevOpsWorks"
     },
     {
-        "name": "Eva",
-        "age": 54,
-        "job": "Programmer",
-        "gender": "Male",
-        "country": "France"
+      "id": 10,
+      "name": "Nasirova Nafisa",
+      "email": "nafisa@gmail.com",
+      "year": 1996,
+      "company": "NetSolutions"
     },
     {
-        "name": "John",
-        "age": 29,
-        "job": "Nurse",
-        "gender": "Female",
-        "country": "Germany"
+      "id": 11,
+      "name": "Siddiqova Safar",
+      "email": "safar@gmail.com",
+      "year": 1998,
+      "company": "CloudyTech"
     },
     {
-        "name": "Olivia",
-        "age": 57,
-        "job": "Scientist",
-        "gender": "Female",
-        "country": "Germany"
+      "id": 12,
+      "name": "Ikramova Iroda",
+      "email": "iroda@gmail.com",
+      "year": 1987,
+      "company": "SmartDev"
     },
     {
-        "name": "Jane",
-        "age": 29,
-        "job": "Chef",
-        "gender": "Female",
-        "country": "France"
+      "id": 13,
+      "name": "Faridova Farangiz",
+      "email": "farangiz@gmail.com",
+      "year": 1989,
+      "company": "TechX"
     },
     {
-        "name": "Jack",
-        "age": 19,
-        "job": "Chef",
-        "gender": "Female",
-        "country": "South Korea"
+      "id": 14,
+      "name": "Sultonov Sulaymon",
+      "email": "sulaymon@gmail.com",
+      "year": 1991,
+      "company": "CyberWorks"
     },
     {
-        "name": "Helen",
-        "age": 51,
-        "job": "Scientist",
-        "gender": "Female",
-        "country": "France"
+      "id": 15,
+      "name": "Nurmatov Nuriddin",
+      "email": "nuriddin@gmail.com",
+      "year": 1994,
+      "company": "WebCraft"
     },
     {
-        "name": "Mia",
-        "age": 24,
-        "job": "Writer",
-        "gender": "Male",
-        "country": "Germany"
+      "id": 16,
+      "name": "Masharipov Mehron",
+      "email": "mehron@gmail.com",
+      "year": 1986,
+      "company": "DevLab"
     },
     {
-        "name": "Helen",
-        "age": 44,
-        "job": "Doctor",
-        "gender": "Female",
-        "country": "South Korea"
+      "id": 17,
+      "name": "Shamuradov Shohruh",
+      "email": "shohruh@gmail.com",
+      "year": 1992,
+      "company": "CodeNinja"
     },
     {
-        "name": "Ivy",
-        "age": 59,
-        "job": "Chef",
-        "gender": "Female",
-        "country": "Canada"
+      "id": 18,
+      "name": "Muminova Mehriban",
+      "email": "mehriban@gmail.com",
+      "year": 1995,
+      "company": "SoftEdge"
     },
     {
-        "name": "John",
-        "age": 34,
-        "job": "Designer",
-        "gender": "Female",
-        "country": "Canada"
+      "id": 19,
+      "name": "Jumaniyozov Jasur",
+      "email": "jasur@gmail.com",
+      "year": 1990,
+      "company": "DevMinds"
+    },
+    {
+      "id": 20,
+      "name": "Shohshahova Shahrizoda",
+      "email": "shahrizoda@gmail.com",
+      "year": 1984,
+      "company": "TechTrend"
+    },
+    {
+      "id": 21,
+      "name": "Shokirov Shohruz",
+      "email": "shohruz@gmail.com",
+      "year": 1993,
+      "company": "CloudX"
+    },
+    {
+      "id": 22,
+      "name": "Nasimova Nilufar",
+      "email": "nilufar@gmail.com",
+      "year": 1991,
+      "company": "InnovateLab"
+    },
+      {
+      "id": 23,
+      "name": "Zafarov Zokir",
+      "email": "zokir@gmail.com",
+      "year": 1997,
+      "company": "TechSpark"
+    },
+    {
+      "id": 24,
+      "name": "Azimova Aziza",
+      "email": "aziza@gmail.com",
+      "year": 1985,
+      "company": "CodeLab"
+    },
+    {
+      "id": 25,
+      "name": "Shahobiddinov Shahobiddin",
+      "email": "shahobiddin@gmail.com",
+      "year": 1989,
+      "company": "SoftFlow"
+    },
+    {
+      "id": 26,
+      "name": "Norboeva Nodira",
+      "email": "nodira@gmail.com",
+      "year": 1994,
+      "company": "WebTech"
+    },
+    {
+      "id": 27,
+      "name": "Abdurakhmanov Abdurakhman",
+      "email": "abdurakhman@gmail.com",
+      "year": 1996,
+      "company": "DataNet"
+    },
+    {
+      "id": 28,
+      "name": "Mavlonov Mavlon",
+      "email": "mavlon@gmail.com",
+      "year": 1988,
+      "company": "CloudServe"
+    },
+    {
+      "id": 29,
+      "name": "Shodiyeva Shahrizoda",
+      "email": "shahrizoda@gmail.com",
+      "year": 1995,
+      "company": "SoftBridge"
+    },
+    {
+      "id": 30,
+      "name": "Zunnunova Zumrat",
+      "email": "zumrat@gmail.com",
+      "year": 1990,
+      "company": "TechEdge"
+    },
+    {
+      "id": 31,
+      "name": "Khalilova Kamila",
+      "email": "kamila@gmail.com",
+      "year": 1983,
+      "company": "CloudSolutions"
+    },
+    {
+      "id": 32,
+      "name": "Abdullayeva Afsona",
+      "email": "afsona@gmail.com",
+      "year": 1994,
+      "company": "DataForge"
+    },
+    {
+      "id": 33,
+      "name": "Saydaminova Sayyora",
+      "email": "sayyora@gmail.com",
+      "year": 1999,
+      "company": "CodeCraft"
+    },
+    {
+      "id": 34,
+      "name": "Zavqiddinov Zavqi",
+      "email": "zavqi@gmail.com",
+      "year": 1997,
+      "company": "WebServe"
+    },
+    {
+      "id": 35,
+      "name": "Turonov Turon",
+      "email": "turon@gmail.com",
+      "year": 1992,
+      "company": "TechNova"
+    },
+    {
+      "id": 36,
+      "name": "Malikov Mehron",
+      "email": "mehron@gmail.com",
+      "year": 1989,
+      "company": "CloudWare"
+    },
+    {
+      "id": 37,
+      "name": "Zafirov Zafar",
+      "email": "zafar@gmail.com",
+      "year": 1995,
+      "company": "SoftWave"
+    },
+    {
+      "id": 38,
+      "name": "Shokhrukhova Shohida",
+      "email": "shohida@gmail.com",
+      "year": 1986,
+      "company": "TechPulse"
+    },
+    {
+      "id": 39,
+      "name": "Boboyorov Boboyor",
+      "email": "boboyor@gmail.com",
+      "year": 1993,
+      "company": "CloudEdge"
+    },
+    {
+      "id": 40,
+      "name": "Mahmudov Mahmud",
+      "email": "mahmud@gmail.com",
+      "year": 1991,
+      "company": "DevTech"
+    },
+    {
+      "id": 41,
+      "name": "Nematov Nuriddin",
+      "email": "nuriddin@gmail.com",
+      "year": 1985,
+      "company": "TechSoft"
+    },
+    {
+      "id": 42,
+      "name": "Jasurbekov Jasurbek",
+      "email": "jasurbek@gmail.com",
+      "year": 1994,
+      "company": "SoftStudio"
+    },
+    {
+      "id": 43,
+      "name": "Murodov Murod",
+      "email": "murod@gmail.com",
+      "year": 1998,
+      "company": "CloudTech"
+    },
+    {
+      "id": 44,
+      "name": "Jalolov Jalol",
+      "email": "jalol@gmail.com",
+      "year": 1987,
+      "company": "Innovatech"
+    },
+    {
+      "id": 45,
+      "name": "Sultonov Sulaymon",
+      "email": "sulaymon@gmail.com",
+      "year": 1990,
+      "company": "DataSolutions"
+    },
+    {
+      "id": 46,
+      "name": "Nurmatov Nuriddin",
+      "email": "nuriddin@gmail.com",
+      "year": 1996,
+      "company": "TechGuru"
+    },
+    {
+      "id": 47,
+      "name": "Masharipov Mehron",
+      "email": "mehron@gmail.com",
+      "year": 1986,
+      "company": "SoftEdge"
+    },
+    {
+      "id": 48,
+      "name": "Shamuradov Shohruh",
+      "email": "shohruh@gmail.com",
+      "year": 1992,
+      "company": "CodeNinja"
+    },
+    {
+      "id": 49,
+      "name": "Muminova Mehriban",
+      "email": "mehriban@gmail.com",
+      "year": 1995,
+      "company": "SoftFlow"
+    },
+    {
+      "id": 50,
+      "name": "Jumaniyozov Jasur",
+      "email": "jasur@gmail.com",
+      "year": 1990,
+      "company": "DevMinds"
+    },
+    {
+      "id": 51,
+      "name": "Shohshahova Shahrizoda",
+      "email": "shahrizoda@gmail.com",
+      "year": 1984,
+      "company": "TechTrend"
+    },
+    {
+      "id": 52,
+      "name": "Shokirov Shohruz",
+      "email": "shohruz@gmail.com",
+      "year": 1993,
+      "company": "CloudX"
+    },
+    {
+      "id": 53,
+      "name": "Nasimova Nilufar",
+      "email": "nilufar@gmail.com",
+      "year": 1991,
+      "company": "InnovateLab"
+    },
+      {
+      "id": 54,
+      "name": "Zafarov Zokir",
+      "email": "zokir@gmail.com",
+      "year": 1997,
+      "company": "TechSpark"
+    },
+    {
+      "id": 55,
+      "name": "Azimova Aziza",
+      "email": "aziza@gmail.com",
+      "year": 1985,
+      "company": "CodeLab"
+    },
+    {
+      "id": 56,
+      "name": "Shahobiddinov Shahobiddin",
+      "email": "shahobiddin@gmail.com",
+      "year": 1989,
+      "company": "SoftFlow"
+    },
+    {
+      "id": 57,
+      "name": "Norboeva Nodira",
+      "email": "nodira@gmail.com",
+      "year": 1994,
+      "company": "WebTech"
+    },
+    {
+      "id": 58,
+      "name": "Abdurakhmanov Abdurakhman",
+      "email": "abdurakhman@gmail.com",
+      "year": 1996,
+      "company": "DataNet"
+    },
+    {
+      "id": 59,
+      "name": "Mavlonov Mavlon",
+      "email": "mavlon@gmail.com",
+      "year": 1988,
+      "company": "CloudServe"
+    },
+    {
+      "id": 60,
+      "name": "Shodiyeva Shahrizoda",
+      "email": "shahrizoda@gmail.com",
+      "year": 1995,
+      "company": "SoftBridge"
+    },
+    {
+      "id": 61,
+      "name": "Zunnunova Zumrat",
+      "email": "zumrat@gmail.com",
+      "year": 1990,
+      "company": "TechEdge"
+    },
+    {
+      "id": 62,
+      "name": "Khalilova Kamila",
+      "email": "kamila@gmail.com",
+      "year": 1983,
+      "company": "CloudSolutions"
+    },
+    {
+      "id": 63,
+      "name": "Abdullayeva Afsona",
+      "email": "afsona@gmail.com",
+      "year": 1994,
+      "company": "DataForge"
+    },
+    {
+      "id": 64,
+      "name": "Saydaminova Sayyora",
+      "email": "sayyora@gmail.com",
+      "year": 1999,
+      "company": "CodeCraft"
+    },
+    {
+      "id": 65,
+      "name": "Zavqiddinov Zavqi",
+      "email": "zavqi@gmail.com",
+      "year": 1997,
+      "company": "WebServe"
+    },
+    {
+      "id": 66,
+      "name": "Turonov Turon",
+      "email": "turon@gmail.com",
+      "year": 1992,
+      "company": "TechNova"
+    },
+    {
+      "id": 67,
+      "name": "Malikov Mehron",
+      "email": "mehron@gmail.com",
+      "year": 1989,
+      "company": "CloudWare"
+    },
+    {
+      "id": 68,
+      "name": "Zafirov Zafar",
+      "email": "zafar@gmail.com",
+      "year": 1995,
+      "company": "SoftWave"
+    },
+    {
+      "id": 69,
+      "name": "Shokhrukhova Shohida",
+      "email": "shohida@gmail.com",
+      "year": 1986,
+      "company": "TechPulse"
+    },
+    {
+      "id": 70,
+      "name": "Boboyorov Boboyor",
+      "email": "boboyor@gmail.com",
+      "year": 1993,
+      "company": "CloudEdge"
+    },
+    {
+      "id": 71,
+      "name": "Mahmudov Mahmud",
+      "email": "mahmud@gmail.com",
+      "year": 1991,
+      "company": "DevTech"
+    },
+    {
+      "id": 72,
+      "name": "Nematov Nuriddin",
+      "email": "nuriddin@gmail.com",
+      "year": 1985,
+      "company": "TechSoft"
+    },
+    {
+      "id": 73,
+      "name": "Jasurbekov Jasurbek",
+      "email": "jasurbek@gmail.com",
+      "year": 1994,
+      "company": "SoftStudio"
+    },
+    {
+      "id": 74,
+      "name": "Murodov Murod",
+      "email": "murod@gmail.com",
+      "year": 1998,
+      "company": "CloudTech"
+    },
+    {
+      "id": 75,
+      "name": "Jalolov Jalol",
+      "email": "jalol@gmail.com",
+      "year": 1987,
+      "company": "Innovatech"
+    },
+    {
+      "id": 76,
+      "name": "Sultonov Sulaymon",
+      "email": "sulaymon@gmail.com",
+      "year": 1990,
+      "company": "DataSolutions"
+    },
+    {
+      "id": 77,
+      "name": "Nurmatov Nuriddin",
+      "email": "nuriddin@gmail.com",
+      "year": 1996,
+      "company": "TechGuru"
+    },
+    {
+      "id": 78,
+      "name": "Masharipov Mehron",
+      "email": "mehron@gmail.com",
+      "year": 1986,
+      "company": "SoftEdge"
+    },
+    {
+      "id": 79,
+      "name": "Shamuradov Shohruh",
+      "email": "shohruh@gmail.com",
+      "year": 1992,
+      "company": "CodeNinja"
+    },
+    {
+      "id": 80,
+      "name": "Muminova Mehriban",
+      "email": "mehriban@gmail.com",
+      "year": 1995,
+      "company": "SoftFlow"
     }
 ]
+   
+  
